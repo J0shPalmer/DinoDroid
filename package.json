@@ -1,0 +1,14 @@
+{
+  "name": "dinodroid",
+  "version": "1.0.0",
+  "description": "A Discord bot to handle moderation tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  }
+}
